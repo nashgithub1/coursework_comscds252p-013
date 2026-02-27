@@ -159,10 +159,10 @@ Department: IT
 
 ---
 
-## ⚠️ Requirements
+## Requirements
 
 * Python 3.x
-
+3.11 is the version im using to work on
 
 
 
