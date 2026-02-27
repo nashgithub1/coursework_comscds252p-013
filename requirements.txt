@@ -1,0 +1,27 @@
+
+
+
+numpy==1.22.3
+pandas==2.2.2
+seaborn==0.13.2
+tensorflow==2.16.2
+notebook==7.4.4
+
+# Web scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# Data handling & utilities
+scikit-learn==1.5.1
+scipy==1.13.1
+
+# Visualization enhancements
+plotly==5.22.0
+
+# Jupyter ecosystem
+ipykernel==6.29.5
+ipywidgets==8.1.3
+
+# Optional (nice touch for realism)
+tqdm==4.66.4
